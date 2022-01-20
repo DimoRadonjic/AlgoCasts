@@ -31,7 +31,7 @@ module.exports = vowels;
 
 // Solution 2
 //  let res = 0;
-//   let vowels = ['a', 'e', 'i', 'o', 'u'];
+//   let vowels = ['a', 'e', 'i', 'o', 'u']; ||  "aeiou"
 //   for (let char of str.toLowerCase()) {
 //     if (vowels.includes(char)) {
 //       res++;
